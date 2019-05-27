@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: organization
+microservices:
+  employee:
+    url: http://${EMPLOYEE_SERVICE}:8080
+ 
