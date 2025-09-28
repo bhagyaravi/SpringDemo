@@ -21,7 +21,7 @@ import jp.co.alico.cusext.vo.DisAgrmntInfoVO;
  * @version 1.0.0
  * @author システム技研 JH.Lee
  */
-public class DisAgrInfoDAO extends DAOBase {
+public class TestDAO extends DAOBase {
     // Logインスタンスの生成
     private LoggerUtil logger = new LoggerUtil( this.getClass().getName() );
 
